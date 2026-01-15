@@ -17,6 +17,7 @@ A module that adds a pop-up on magento that aims to retain the user with a disco
       send();
     })();
     </script>
+
     
 //This one needs to be nestled inside the body after the form ends in the dot digital form's source code:
 <script>
