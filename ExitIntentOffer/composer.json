@@ -1,0 +1,20 @@
+{
+    "name": "viridian/module-exit-intent-offer",
+    "description": "Exit intent popup module for Viridian. Displays a promotional popup once per browser tab session.",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "proprietary"
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Viridian\\ExitIntent\\": ""
+        }
+    }
+}
