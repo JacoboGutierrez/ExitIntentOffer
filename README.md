@@ -22,7 +22,7 @@ This will deactivate the pop-up for a month once user submits their mail.
 })();
 </script>
     
-//This one needs to be nestled inside the body after the form ends in the dot digital form's source code:<br>
+//This one needs to be nestled inside the body after the form ends in the dot digital form's source code:
 
 <script>
 (function () {
