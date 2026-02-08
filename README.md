@@ -1,5 +1,10 @@
-# ExitIntentOffer
+###################
+# ExitIntentOffer #
+###################
+
 A module that adds a pop-up on magento that aims to retain the user with a discount.
+Keep in mind that the first script will need to have the Direction of your site to work.
+This will deactivate the pop-up for a month once user submits their mail.
 
 //this code needs to be nestled inside the Confirmation Div in the dot digital form's source code:
 
